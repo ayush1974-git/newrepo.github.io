@@ -1,7 +1,8 @@
 # newrepo.github.io
 # Myself
 I am currently a second year student of CSE in MNIT Jaipur.
-
+## My profile image
+![My Profile Picture]([https://yourimageurl.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstablediffusionweb.com%2Fimage%2F6739221-college-student-in-formal-wear-recommends-pen&psig=AOvVaw3NuGfCOiyjCViuI2pd9zrS&ust=1732011067933000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDozpXS5YkDFQAAAAAdAAAAABAE))
 ##Education
 
 | Degree            | Institution        | Year       |
