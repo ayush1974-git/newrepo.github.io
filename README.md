@@ -2,7 +2,7 @@
 # Myself
 I am currently a second year student of CSE in MNIT Jaipur.
 ## My profile image
-![My Profile Picture]([https://via.placeholder.com/200x200]
+![My Profile Picture](https://www.w3schools.com/w3images/avatar2.png)
 ##Education
 
 | Degree            | Institution        | Year       |
